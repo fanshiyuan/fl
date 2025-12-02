@@ -15,6 +15,37 @@
             "ext": "./lib/douban.json"
         },
         {
+      "key": "小chu女",
+      "name": "小处女┃JS",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./js/小处女.js"
+    },
+    {
+            "key": "999X片",
+            "name": "999X片",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./js/999X片.js"
+        },
+    {
+            "key": "✨无码视频✨\n",
+            "name": "✨无码视频✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/无码视频.json",
+            "jar": "./jar/XBPQ.jar"
+        },
+        {
             "key": "溏心厂商",
             "name": "溏心厂商",
             "type": 3,
@@ -190,6 +221,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "./py1/推特APP.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "103",
+            "name": "✨103APP✨",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./py1/103.py",
             "order_num": 5,
             "ext": ""
         },
