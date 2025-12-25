@@ -1,4 +1,5 @@
 松视,#genre#
+https://s.oxax.tv/ox377QJsShfb9-gd2WhuMw/43/1765222782/index.m3u8
 极限,http://devpulllive.xylink.com:80/live/804a8c18bf249e5f72050a5bedbe0dab.flv
 happy,http://devpulllive.xylink.com:80/live/deddbef92e12a8eb1b65f66891b66d1a.flv
 香蕉,http://devpulllive.xylink.com:80/live/4e4d3da9528325d3c40f53f4bb45ec6e.flv
