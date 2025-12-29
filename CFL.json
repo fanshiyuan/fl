@@ -79,6 +79,17 @@
             }
         },
         {
+            "key": "py_stripchat",
+            "name": "✨py_stripchat✨",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./PY1/py_stripchat.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
             "key": "瑟瑟",
             "name": "✨瑟瑟发抖✨",
             "type": 3,
@@ -4336,14 +4347,12 @@
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "欧美大洋马",
-            "type": 0,
-            "url": "http://ox.html-5.me//i/5774685.txt",
-            "ua": "okhttp/3.15",
-            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
+				"name": "欧美大洋马",
+				"type": 0,
+				
+				"url": "./lib/欧美大洋马.txt"
+    },
+    {
             "name": "国际频道",
             "type": 0,
             "url": "http://nrvmobil.com:2095/get.php?username=tkn9985&password=vRkBPApGQFGB&type=m3u_plus",
