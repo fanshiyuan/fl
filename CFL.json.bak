@@ -24,6 +24,24 @@
   "changeable": 0
 },
 {
+  "key": "虎牙直播",
+  "name": "虎牙直播",
+  "type": 4,
+  "api": "http://127.0.0.1:9980/虎牙直播.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0
+},
+{
+  "key": "直播",
+  "name": "直播",
+  "type": 4,
+  "api": "http://127.0.0.1:9980/config.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0
+},
+{
   "key": "1php",
   "name": "麻雀视频PHP",
   "type": 4,
